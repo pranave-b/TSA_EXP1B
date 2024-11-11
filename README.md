@@ -1,6 +1,6 @@
 ### Developed by: Pranave B
 ### Register Number: 212221240040
-### Date:
+
 
 # Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
 ### AIM:
